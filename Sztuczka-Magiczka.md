@@ -1,7 +1,5 @@
 <h1 align="center">Cześć wszystkim!
-  Jestem Remo Faller
-  ![DevTo-Dark](https://user-images.githubusercontent.com/123673170/232251969-fb623823-d3d5-4d46-82cb-b37382fec916.svg)
-  (Sztuczka Magiczka)</h1>
+  Jestem Remo Faller (Sztuczka Magiczka)</h1>
 <h3 align="center">Jestem początkującym programistą, entuzjastą systemu Debian oraz technik <i>"pentestingu"</i>.</h3>
 </br>
 - 💬 Możemy porozmawiać o: **Metasploit-Framework, Social Engineering Toolki, Android Studio, Wordpress, OSINT etc;
