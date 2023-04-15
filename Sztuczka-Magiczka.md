@@ -1,6 +1,7 @@
 <h1 align="center">Cześć wszystkim!
-  Jestem Remo Faller ![DevTo-Dark](https://user-images.githubusercontent.com/123673170/232251969-fb623823-d3d5-4d46-82cb-b37382fec916.svg)
- (Sztuczka Magiczka)</h1>
+  Jestem Remo Faller
+  ![DevTo-Dark](https://user-images.githubusercontent.com/123673170/232251969-fb623823-d3d5-4d46-82cb-b37382fec916.svg)
+  (Sztuczka Magiczka)</h1>
 <h3 align="center">Jestem początkującym programistą, entuzjastą systemu Debian oraz technik <i>"pentestingu"</i>.</h3>
 </br>
 - 💬 Możemy porozmawiać o: **Metasploit-Framework, Social Engineering Toolki, Android Studio, Wordpress, OSINT etc;
@@ -8,7 +9,7 @@
 
 <h3 align="left">Języki programowania oraz narzędzia:</h3>
 
-<b>
+<b><center>
   1. Linux (Debian 11 Bullseye) ![Linux-Dark](https://user-images.githubusercontent.com/123673170/232251719-5de7f469-898d-4c45-8b93-3043d74cccc9.svg)
 
   2. PHP ![PHP-Dark](https://user-images.githubusercontent.com/123673170/232251774-6539201f-c542-4178-9b8b-08d06fac42d7.svg)
@@ -29,3 +30,4 @@
 Wykonanie: [Remo Faller](https://github.com/Sztuczka-Magiczka)
 
 15/04/2023
+  </center></b>
