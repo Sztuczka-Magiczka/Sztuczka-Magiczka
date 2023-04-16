@@ -1,8 +1,8 @@
-<h1 align="center">Cześć wszystkim!
+<h1 align="center">Cześć wszystkim!<br>
   Jestem Remo Faller (Sztuczka Magiczka)</h1>
 <h3 align="center">Jestem początkującym programistą, entuzjastą systemu Debian oraz technik <i>"pentestingu"</i>.</h3>
 </br>
-- 💬 Możemy porozmawiać o: **Metasploit-Framework, Social Engineering Toolki, Android Studio, Wordpress, OSINT etc;
+<b>- 💬 Możemy porozmawiać o: **Metasploit-Framework, Social Engineering Toolki, Android Studio, Wordpress, OSINT etc;</b>
 ---
 
 <h3 align="left">Języki programowania oraz narzędzia:</h3>
